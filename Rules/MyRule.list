@@ -1,12 +1,12 @@
 # NAME: Emby
 
 HOST, my.microsoftpersonalcontent.com,Emby
-HOST, https://xxm.kingemby.xyz,Emby
+HOST, xxm.kingemby.xyz,Emby
 HOST, qiumoxixia.520725.xyz,Emby
-HOST, https://link00.okemby.org,Emby
-HOST, https://link01.okemby.org,Emby
-HOST, https://mi.miraiemby.com,Emby
-HOST, https://emby.ichinosekotomi.com,Emby
-HOST, https://hgemby.qzz.io,Emby
-HOST, https://emby.zhousanwan.xyz/emby,Emby
-HOST, https://faemby.vip,Emby
+HOST, link00.okemby.org,Emby
+HOST, link01.okemby.org,Emby
+HOST, mi.miraiemby.com,Emby
+HOST, emby.ichinosekotomi.com,Emby
+HOST, hgemby.qzz.io,Emby
+HOST, emby.zhousanwan.xyz,Emby
+HOST, faemby.vip,Emby
