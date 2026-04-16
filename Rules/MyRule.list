@@ -1,7 +1,6 @@
 # NAME: Emby
 
 host, my.microsoftpersonalcontent.com, Emby
-host, https://xxm.kingemby.xyz:443, Emby
 host, qiumoxixia.520725.xyz, Emby
 host, https://link00.okemby.org:8443, Emby
 host, https://link01.okemby.org:8443, Emby
