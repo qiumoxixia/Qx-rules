@@ -1,11 +1,12 @@
 # NAME: Emby
 
-host, my.microsoftpersonalcontent.com, Emby
-host, qiumoxixia.520725.xyz, Emby
-host, https://link00.okemby.org:8443, Emby
-host, https://link01.okemby.org:8443, Emby
-host, https://mi.miraiemby.com:443, Emby
-host, https://emby.ichinosekotomi.com:443, Emby
-host, https://hgemby.qzz.io:443, Emby
-host, https://emby.zhousanwan.xyz/emby, Emby
-host, https://faemby.vip:443, Emby
+host-suffix, my.microsoftpersonalcontent.com, Emby
+host-suffix, https://xxm.kingemby.xyz:443, Emby
+host-suffix, qiumoxixia.520725.xyz, Emby
+host-suffix, https://link00.okemby.org:8443, Emby
+host-suffix, https://link01.okemby.org:8443, Emby
+host-suffix, https://mi.miraiemby.com:443, Emby
+host-suffix, https://emby.ichinosekotomi.com:443, Emby
+host-suffix, https://hgemby.qzz.io:443, Emby
+host-suffix, https://emby.zhousanwan.xyz/emby, Emby
+host-suffix, https://faemby.vip:443, Emby
