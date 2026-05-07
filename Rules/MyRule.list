@@ -2,8 +2,8 @@
 
 #xxm
 HOST, xxm.kingemby.xyz,Emby
-#qiumoxixia
-HOST, qiumoxixia.520725.xyz,Emby
+#lam
+HOST-SUFFIX, 520725.xyz,Emby
 #ok
 HOST-SUFFIX, okemby.org,Emby
 #mirai
