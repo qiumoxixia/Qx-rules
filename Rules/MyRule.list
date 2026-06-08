@@ -27,4 +27,4 @@ HOST-SUFFIX, wedg.top,Emby
 #bby
 HOST, file.covh.eu.org,Emby
 HOST, bb.111848.xyz,Emby
-HOST, 152.53.194.116,Emby
+ip-cidr, 152.53.194.116/32,Emby
