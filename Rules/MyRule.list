@@ -29,3 +29,5 @@ HOST, file.covh.eu.org,Emby
 HOST, bb.111848.xyz,Emby
 HOST, bb.emby.edu.kg,Emby
 ip-cidr, 152.53.194.116/32,Emby
+#zzm
+HOST, eb.zzm.li,Emby
