@@ -33,3 +33,5 @@ ip-cidr, 152.53.194.116/32,Emby
 #zzm
 HOST, eb.zzm.li,Emby
 HOST, laxns.ftp2.eu.org,Emby
+#df
+HOST, emby.di0.uk,Emby
