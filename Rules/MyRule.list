@@ -1,8 +1,8 @@
 # NAME: Emby
 
 #lam
-HOST, 520725.xyz,Emby
-HOST, 520425.xyz,Emby
+HOST-SUFFIX, 520725.xyz,Emby
+HOST-SUFFIX, 520425.xyz,Emby
 #xxm
 HOST, xxm.kingemby.xyz,Emby
 HOST, fd1.kingemby.xyz,Emby
